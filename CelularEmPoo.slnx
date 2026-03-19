@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CelularEmPoo.ConsoleApp/CelularEmPoo.ConsoleApp.csproj" />
+    <Project Path="src/CelularEmPoo.Domain/CelularEmPoo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CelularEmPoo.Domain.Tests/CelularEmPoo.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
